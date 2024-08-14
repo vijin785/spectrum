@@ -1,0 +1,83 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(1, 8, 16);
+}
+h1{
+    color: aliceblue;
+}
+.row{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.col{
+    width: 140px;
+    height: 150px;
+    background-color: rgb(1, 1, 17);
+    margin-right: 10px;
+}
+.col1{
+    background-color: aliceblue;
+}
+.col2{
+    background-color: antiquewhite;
+}
+.col3{
+    background-color: aqua;
+}
+.col4{
+    background-color: blue;
+}
+.col5{
+    background-color: blueviolet;
+}
+.col6{
+    background-color: brown;
+}
+.col7{
+    background-color: cadetblue;
+}
+.col8{
+    background-color: chartreuse;
+}
+.col9{
+    background-color: chocolate;
+}
+.col10{
+    background-color: coral;
+}
+.col11{
+    background-color: cornflowerblue;
+}
+.col12{
+    background-color: cornsilk;
+}
+.col13{
+    background-color: crimson;
+}
+.col14{
+   background-color: cyan;  
+}
+.col15{
+    background-color: darkblue;
+}
+.col16{
+    background-color: darkcyan;
+}
+.col17{
+    background-color: darkgoldenrod;
+}
+.col18{
+    background-color: darkgreen;
+}
+.col19{
+    background-color: darkkhaki;
+}
+.col20{
+    background-color: darkolivegreen;
+}
+.col21{
+    background-color: darkslategrey;
+}
